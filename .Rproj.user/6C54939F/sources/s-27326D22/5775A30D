@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560840112851.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5775A30D",
+    "lastKnownWriteTime" : 1560840789,
+    "last_content_update" : 1560840789286,
+    "path" : "~/Documents/TBoCo/R/TBoCo.R",
+    "project_path" : "R/TBoCo.R",
+    "properties" : {
+        "cursorPosition" : "136,0",
+        "scrollLine" : "118"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

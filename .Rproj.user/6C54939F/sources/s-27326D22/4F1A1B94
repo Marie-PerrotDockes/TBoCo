@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560071570548.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "3|1|21|0|\n",
+    "hash" : "0",
+    "id" : "4F1A1B94",
+    "lastKnownWriteTime" : 1521720063,
+    "last_content_update" : 1560071698174,
+    "path" : "~/Documents/Marie_Perrot/Help/Multivar_selec/Functions/Transf_data.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

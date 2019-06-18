@@ -1,0 +1,4 @@
+sapply(1:18,function(x){
+  tic <- boxcoxnc(Ybrt[,x], method="jb", lambda = seq(-2,2,0.5),lambda2 = 1, alpha=0)
+max(abs(  tic$tf.data - Y_bxcx[,x]))
+})

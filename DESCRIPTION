@@ -1,0 +1,12 @@
+Package: TBoCo
+Type: Package
+Title: Perform scaling and boxcox transformation of a matrix
+Version: 0.0.1
+Author: Marie Perrot
+Maintainer: Marie Perrot <marie.perrocks@gmail.com>
+Description: Its performs BoxCox transformation on a matrice and then scale it. This is an adaptation of boxcoxnc of the AID package. In order to prevent to important transformations it allowed to have a maximum and a minimum values of lambda even if it is not the best values to have normal data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: tseries
